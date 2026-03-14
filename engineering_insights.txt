@@ -1,0 +1,6 @@
+# loops are usually responsible for the most performance problems. 
+example: 
+Bad design: 
+    loop inside loop inside loop 
+
+this will cause the program for exponential slow down. 

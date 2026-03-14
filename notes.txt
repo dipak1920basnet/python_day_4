@@ -1,0 +1,46 @@
+# A real system must handle:
+thousand of users 
+millions of records 
+continous input streams 
+
+this can be done with automations through repetations. 
+
+loops are the foundations of: 
+ML training 
+data processing 
+search indexing 
+simulations 
+log analysis
+
+What is a loop?
+=> loop in programming can be answered in muliple ways like:
+repeat of instruction 
+repeat of state transformation 
+repeat of decision making 
+execution of same syntax in a pattern 
+execution of same syntax in a pattern muliple times with nested form. 
+automating the repetations 
+
+Types of loops: 
+for : we know the number of repetations. 
+while : we dont know the number of repetations but a conditon to till we repeat 
+
+# Loop state
+
+=> Every loop will need state updates 
+
+bad loop are those loop that will occur infinite times 
+and this will cause runtime error 
+
+the bad loop with change the state forever exhusting the resource of a computer. 
+
+# The variable that controls the loop repetation or changes its value during each iterations is called loop variables. 
+#example:: 
+for i in range(5):
+    print(i)
+
+here i is loop variable
+
+# Loop + State transformations. 
+loop is mostly used for automatic state transformations. 
+like update the state 
