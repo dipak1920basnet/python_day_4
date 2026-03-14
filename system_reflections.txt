@@ -1,0 +1,20 @@
+1️⃣ Why are loops essential for real software?
+=> automate the state update process 
+=> repeat the decision 
+=> automate the transformation of the states
+
+2️⃣ What causes infinite loops?
+incorrect conditon 
+correct conditon but if the conditon is depended on state and state is never updated can cause infinite or non executable loop.
+
+3️⃣ Why can nested loops cause performance problems?
+increased number of state transformation, decision making. 
+longer task to carry out. 
+repeat of same task 
+not ending the loop on correct condition will cause the nested loop to keep carrying the exection of state transformation again and again. 
+
+4️⃣ How do loops transform program state?
+automate the state transformation. 
+fewer line of codes making the state in the program trackable and makes debugging easier
+repeat the process of state transformation. 
+same decision can be repeated in loops. 

@@ -4,3 +4,7 @@ Bad design:
     loop inside loop inside loop 
 
 this will cause the program for exponential slow down. 
+
+#Loops are the engine of the computations. 
+
+#Large scale transformations like traing on machine learning uses loops to process its massive datasets.
